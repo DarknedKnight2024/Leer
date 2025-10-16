@@ -1,15 +1,11 @@
 # leer - Info
 
-## Book Added 1.0.0
+## Books 1.0.0
 
-**Stories**
-
-### Books
-
-#### The Fall of the House of Usher
-- ##### **Author**: Edgar Allan Poe *(1809 - 1849)*
-- ##### **Published**: September 1839
-- ##### **Genres**
+### The Fall of the House of Usher
+- #### **Author**: Edgar Allan Poe *(1809 - 1849)*
+- #### **Published**: September 1839
+- #### **Genres**
   - **Fiction**
   - Gothic Horror
   - Psychological fiction
