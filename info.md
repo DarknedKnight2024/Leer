@@ -7,9 +7,9 @@
 ### Books
 
 #### The Fall of the House of Usher
-- **Author**: Edgar Allan Poe *(1809 - 1849)*
-- **Published**: September 1839
-- **Genres**
+- ##### **Author**: Edgar Allan Poe *(1809 - 1849)*
+- ##### **Published**: September 1839
+- ##### **Genres**
   - **Fiction**
   - Gothic Horror
   - Psychological fiction
