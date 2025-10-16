@@ -16,8 +16,14 @@
   1. **Jean Louise "Scout" Finch**: The young, curious narrator and protagonist, who grows from innocence to awareness of societal prejudice.
   2. **Jeremy "Jem" Finch**: Scout’s older brother, whose loss of innocence mirrors the story’s central themes.
   3. **Atticus Finch**: Scout and Jem’s father, a principled lawyer defending Tom Robinson; embodies moral courage and integrity.
-- **Setting**: A remote, decaying mansion (House of Usher) in a gloomy, mist-shrouded countryside, presumably in Europe (though specifics are vague).
-- **Description**: "The Fall of the House of Usher" is a classic Gothic short story by Edgar Allan Poe, first published in 1839, that masterfully weaves psychological horror, isolation, and supernatural dread. Set in a remote, decaying mansion in a gloomy, mist-shrouded landscape, the tale follows a nameless narrator visiting his childhood friend Roderick Usher, who suffers from a mysterious mental illness exacerbated by his family’s cursed legacy and the oppressive atmosphere of the house itself. Roderick’s twin sister Madeline, believed dead and entombed beneath the house, later returns in a grotesque, half-alive state, triggering a violent unraveling of the Usher family’s sanity and the physical collapse of their decrepit home—a symbolic reflection of the decay of both the lineage and the mind. Poe’s vivid descriptions and focus on eerie, claustrophobic tension cement this as a quintessential example of Gothic literature, exploring themes of doom, hereditary madness, and the blurring of reality and the supernatural.
+  4. **Charles Baker "Dill" Harris**: The young, curious narrator and protagonist, who grows from innocence to awareness of societal prejudice.
+  5. **Jeremy "Jem" Finch**: Scout’s imaginative, transient friend who joins her and Jem in their childhood adventures.
+  6. **Bob Ewell**: A poor, racist 村民 (villager) who falsely accuses Tom Robinson of rape, driving the novel’s conflict.
+  7. **Tom Robinson**: A Black man wrongfully accused of raping Mayella Ewell; his trial exposes systemic racism.
+  5. **Mayella Ewell**: Bob’s lonely, abused daughter who testifies against Tom, trapped by her family’s bigotry.
+  6. **Arthur "Boo" Radley**: A reclusive neighbor misunderstood by the town; his gradual revelation challenges Scout’s perception of "otherness."
+- **Setting**:Maycomb, Alabama, a small, deeply segregated Southern town during the Great Depression (late 1920s to early 1930s). The story unfolds over three years, primarily from Scout’s childhood perspective.
+- **Description**: A powerful exploration of racial injustice, moral growth, and the loss of innocence. Narrated through Scout’s eyes, the novel follows her, Jem, and Dill as they grapple with the harsh realities of their community—including the trial of Tom Robinson—while learning empathy and the value of standing against prejudice. Atticus’s defense of Tom, despite overwhelming bigotry, underscores themes of integrity and compassion. The title references the idea that harming the innocent ("killing a mockingbird") is a grave sin, symbolizing the tragedy of Tom’s death and Boo’s quiet, misunderstood goodness.
 
 ### The Fall of the House of Usher
 
